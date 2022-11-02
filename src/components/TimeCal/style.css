@@ -1,0 +1,22 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100vw;
+  padding: 10px;
+}
+
+input {
+  width: 70px;
+}
+
+button {
+  background-color: cornflowerblue;
+  height: 50px;
+  font-size: 1.3rem;
+}
+
+.time {
+  display: flex;
+  gap: 10px;
+}

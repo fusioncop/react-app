@@ -1,0 +1,92 @@
+
+> react-app@0.1.0 start /home/ec2-user/react-app
+> react-scripts start
+
+sh: /home/ec2-user/react-app/node_modules/.bin/react-scripts: Permission denied
+npm ERR! code ELIFECYCLE
+npm ERR! errno 126
+npm ERR! react-app@0.1.0 start: `react-scripts start`
+npm ERR! Exit status 126
+npm ERR! 
+npm ERR! Failed at the react-app@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-10-08T15_44_55_143Z-debug.log
+
+> react-app@0.1.0 start /home/ec2-user/react-app
+> react-scripts start
+
+sh: /home/ec2-user/react-app/node_modules/.bin/react-scripts: Permission denied
+npm ERR! code ELIFECYCLE
+npm ERR! errno 126
+npm ERR! react-app@0.1.0 start: `react-scripts start`
+npm ERR! Exit status 126
+npm ERR! 
+npm ERR! Failed at the react-app@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-10-08T15_57_31_064Z-debug.log
+
+> react-app@0.1.0 start /home/ec2-user/react-app
+> react-scripts start
+
+(node:2378) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:2378) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://10.0.0.238:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+> react-app@0.1.0 start /home/ec2-user/react-app
+> react-scripts start
+
+(node:30488) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:30488) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://10.0.0.238:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+> react-app@0.1.0 start /home/ec2-user/react-app
+> react-scripts start
+
+Something is already running on port 3000.
+
+> react-app@0.1.0 start /home/ec2-user/react-app
+> react-scripts start
+
+(node:6676) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:6676) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://10.0.0.238:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
